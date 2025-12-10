@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nebabtew
 - 👀 I’m interested in ART and python
-- 🌱 I’m currently learning python and data analytics
-- 💞️ I’m looking to collaborate on AI and data driven decision making for my dissertation
+- 🌱 I’m currently learning data science at truman state univeristy as well as python on the side
 - 📫 How to reach me Nebabtew@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im abnormally observant lol
