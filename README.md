@@ -48,5 +48,5 @@ I believe data is most powerful when it explains people, not just numbers.
 
 ## 📬 Connect
 - Email: nebabtew@gmail.com
-- LinkedIn: [your link here]
+- LinkedIn: https://www.linkedin.com/in/nebabtew)
 - University: Truman State University, Kirksville MO
