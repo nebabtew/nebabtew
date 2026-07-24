@@ -8,14 +8,14 @@ Currently: Presidential Scholar at Truman State University, VP of the Community 
 ---
 
 ## 🛠 Tech stack
-`Python` `R` `SQL` `Pandas` `NumPy` `Scikit-learn` `Tableau` `Power BI` `Excel` `Regression Modeling` `A/B Testing` `Data Visualization` `Machine Learning` `Streamlit` `SEO & Analytics` `Digital Marketing`
+`Python` `R` `SQL` `Pandas` `NumPy` `RAG` `Scikit-learn` `Neural Networks` `Tableau` `Power BI` `Excel` `Regression Modeling` `Statistical Analysis`  `A/B Testing` `Data Visualization` `Machine Learning` `Streamlit` `SEO & Analytics` `Digital Marketing`
 
 ---
 
 ## 🚀 Featured project
 
-### Health Insurance Cost Prediction — Full ML System (adj. R² = 0.84)
-End-to-end ML pipeline in Python predicting insurance costs with adj. R² of 0.84. Trained and optimized 5 regression models (Linear, Polynomial, Random Forest) using GridSearchCV and cross-validation. Deployed via Streamlit web app with saved encoders, scalers, and model artifacts using joblib for real-time predictions.
+### Health Insurance Cost Prediction — Full ML System (adj. R² = 0.77)
+End-to-end ML pipeline in Python predicting insurance costs with adj. R² of 0.77. Trained and optimized 5 regression models (Linear, Polynomial, Random Forest) using GridSearchCV and cross-validation. Deployed via Streamlit web app with saved encoders, scalers, and model artifacts using joblib for real-time predictions.
 
 `Python` `Scikit-learn` `Streamlit` `GridSearchCV`
 
@@ -25,7 +25,6 @@ End-to-end ML pipeline in Python predicting insurance costs with adj. R² of 0.8
 - GPA: 3.7 / 4.0
 - Fellowship: Break Through Tech AI · Cornell University 2026-2027
 - Co-organized TruHacks 2026 (Boeing-sponsored 48hr hackathon)
-- +200% online engagement at SAT & Co. · +23% audience engagement at D!NK
 
 ---
 
@@ -48,5 +47,5 @@ I believe data is most powerful when it explains people, not just numbers.
 
 ## 📬 Connect
 - Email: nebabtew@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nebabtew)
+- LinkedIn: https://www.linkedin.com/in/nebabtew
 - University: Truman State University, Kirksville MO
