@@ -21,7 +21,7 @@ Currently: Presidential Scholar at Truman State University and a 2026–2027 Bre
 ## 🚀 Featured projects
 
 ### [VibeFinder 2.0](https://github.com/nebabtew/vibefinder-rag) — Applied AI Music Recommender
-Four-stage RAG pipeline: weighted scoring, TF-IDF retrieval over a 24-document knowledge base, Gemini generation, and a deterministic hallucination guardrail. Completed with HONORS in CodePath AI110.
+Four-stage RAG pipeline: weighted scoring, TF-IDF retrieval over a 24-document knowledge base, Gemini 2.5 Flash generation, and a deterministic 3-check hallucination guardrail. Completed with HONORS in CodePath AI110.
 
 `Python` `RAG` `Gemini API` `scikit-learn` `Streamlit` `pytest`
 
