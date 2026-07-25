@@ -1,23 +1,34 @@
 # Hi, I'm Nebiyu 👋
 **Data Science @ Truman State · Break Through Tech AI Fellow · GPA 3.7**
 
-First-gen Ethiopian student turned data scientist. I started with astrophysics, detoured through creative work and social media analytics across Ethiopia and Dubai, then realized that quantifying human behavior at scale was the most interesting problem I could find. I work at the intersection of numbers, people, and product.
+First-gen Ethiopian student building toward machine learning engineering. I started in content and media analytics across Ethiopia and Dubai, measuring why audiences engage, and that pulled me into data science and then into applied AI. Today I build ML systems that turn messy real-world data into working products.
 
-Currently: Presidential Scholar at Truman State University, VP of the Community of College Entrepreneurs, and 2026–2027 Break Through Tech AI Fellow through Cornell University.
+Currently: Presidential Scholar at Truman State University and a 2026–2027 Break Through Tech AI Fellow through Cornell University. Previously VP of the Community of College Entrepreneurs.
 
 ---
 
 ## 🛠 Tech stack
-`Python` `R` `SQL` `Pandas` `NumPy` `RAG` `Scikit-learn` `Neural Networks` `Tableau` `Power BI` `Excel` `Regression Modeling` `Statistical Analysis`  `A/B Testing` `Data Visualization` `Machine Learning` `Streamlit` `SEO & Analytics` `Digital Marketing`
+**Core:** Python · SQL · R · scikit-learn · pandas · NumPy
+
+**AI/ML:** RAG pipelines · Gemini API · TF-IDF retrieval · Pydantic · Neural Networks · GridSearchCV
+
+**Data & Viz:** Tableau · Power BI · Streamlit · Plotly · Jupyter
+
+**Also:** Google Analytics · A/B Testing · SEO
 
 ---
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
-### Health Insurance Cost Prediction — Full ML System (adj. R² = 0.77)
-End-to-end ML pipeline in Python predicting insurance costs with adj. R² of 0.77. Trained and optimized 5 regression models (Linear, Polynomial, Random Forest) using GridSearchCV and cross-validation. Deployed via Streamlit web app with saved encoders, scalers, and model artifacts using joblib for real-time predictions.
+### [VibeFinder 2.0](https://github.com/nebabtew/vibefinder-rag) — Applied AI Music Recommender
+Four-stage RAG pipeline: weighted scoring, TF-IDF retrieval over a 24-document knowledge base, Gemini generation, and a deterministic hallucination guardrail. Completed with HONORS in CodePath AI110.
 
-`Python` `Scikit-learn` `Streamlit` `GridSearchCV`
+`Python` `RAG` `Gemini API` `scikit-learn` `Streamlit` `pytest`
+
+### [Insurance Claim Predictor](https://github.com/nebabtew/Insurance-claim-predictor)
+Compared 5 regression models with GridSearchCV and cross-validation to predict claim costs, reaching adj. R² of 0.77.
+
+`Python` `scikit-learn` `GridSearchCV` `Streamlit`
 
 ---
 
@@ -33,7 +44,7 @@ End-to-end ML pipeline in Python predicting insurance costs with adj. R² of 0.7
 - NSBE member
 - ColorStack member
 - Google Developer Student Club member
-- VP, Community of College Entrepreneurs
+- Former VP, Community of College Entrepreneurs
 - CodePath TIP102 + AI110
 
 ---
@@ -47,5 +58,5 @@ I believe data is most powerful when it explains people, not just numbers.
 
 ## 📬 Connect
 - Email: nebabtew@gmail.com
-- - LinkedIn: [linkedin.com/in/nebabtew](https://www.linkedin.com/in/nebabtew)
+- LinkedIn: [linkedin.com/in/nebabtew](https://www.linkedin.com/in/nebabtew)
 - University: Truman State University, Kirksville MO
