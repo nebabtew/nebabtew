@@ -1,62 +1,57 @@
-# Hi, I'm Nebiyu 👋
-**Data Science @ Truman State · Break Through Tech AI Fellow · GPA 3.7**
+# Hi, I'm Nebiyu (Neba) 👋
+**🎓 Data Science + Business @ Truman State · Break Through Tech AI Fellow · Presidential Scholar · GPA 3.7**
 
-First-gen Ethiopian student building toward machine learning engineering. I started in content and media analytics across Ethiopia and Dubai, measuring why audiences engage, and that pulled me into data science and then into applied AI. Today I build ML systems that turn messy real-world data into working products.
+First-gen student building toward machine learning engineering. Started in content and media analytics, measuring why audiences engage. That pulled me into data science, then applied AI.
 
-Currently: Presidential Scholar at Truman State University and a 2026–2027 Break Through Tech AI Fellow through Cornell University. Previously VP of the Community of College Entrepreneurs.
+---
+
+## 🔭 Currently
+- **Break Through Tech AI Studio × Anote AI:** building an agentic evaluation pipeline that tests whether an Evaluator-Optimizer retry loop beats zero-shot and extra-sampling baselines on MBPP and HumanEval (pass@1). Results landing Dec 2026
+- **Break Through Tech AI Fellow** (Cornell University, 2026-2027)
+- **Event Manager**, Google Developer Group on Campus
+- **Member**, Bulldog Student Investment Fund
 
 ---
 
 ## 🛠 Tech stack
-**Core:** Python · SQL · R · scikit-learn · pandas · NumPy
+**Languages:** Python · SQL · R · Java · C#
 
-**AI/ML:** RAG pipelines · Gemini API · TF-IDF retrieval · Pydantic · Neural Networks · GridSearchCV
+**Data Science & ML:** pandas · NumPy · scikit-learn · TensorFlow · Statistical Modeling · Time Series Forecasting · Feature Engineering
 
-**Data & Viz:** Tableau · Power BI · Streamlit · Plotly · Jupyter
+**Visualization:** Tableau · Matplotlib · Seaborn · PowerBI
 
-**Also:** Google Analytics · A/B Testing · SEO
-
----
-
-## 🚀 Featured projects
-
-### [VibeFinder 2.0](https://github.com/nebabtew/vibefinder-rag) — Applied AI Music Recommender
-Four-stage RAG pipeline: weighted scoring, TF-IDF retrieval over a 24-document knowledge base, Gemini 2.5 Flash generation, and a deterministic 3-check hallucination guardrail. Completed with HONORS in CodePath AI110.
-
-`Python` `RAG` `Gemini API` `scikit-learn` `Streamlit` `pytest`
-
-### [Insurance Claim Predictor](https://github.com/nebabtew/Insurance-claim-predictor)
-Compared 5 regression models with GridSearchCV and cross-validation to predict claim costs, reaching adj. R² of 0.77.
-
-`Python` `scikit-learn` `GridSearchCV` `Streamlit`
+**AI & Development:** LLM Development · Agentic AI Systems · Prompt Engineering · Streamlit · Gemini API · Pydantic · Git
 
 ---
 
-## 📊 Stats
-- GPA: 3.7 / 4.0
-- Fellowship: Break Through Tech AI · Cornell University 2026-2027
-- Co-organized TruHacks 2026 (Boeing-sponsored 48hr hackathon)
+## 🚀 Projects
+- [VibeFinder 2.0](https://github.com/nebabtew/vibefinder-rag) · RAG music recommender with hallucination guardrail (CodePath AI110 Honors)
+- [MirrorMetrics](https://github.com/nebabtew/mirrormetrics) · Competitor TikTok audience intelligence with Gemini via their Comment section
+- [Insurance Claim Predictor](https://github.com/nebabtew/Insurance-claim-predictor) · 5-model regression comparison
+- [Campus RideShare](https://github.com/nebabtew/Rideshareplatform) · 3rd place, ACM x CCE Hackathon
 
 ---
 
-## 🤝 Community
-- Break Through Tech AI Fellow
-- NSBE member
-- ColorStack member
-- Google Developer Student Club member
-- Former VP, Community of College Entrepreneurs
+## 🤝 Leadership and Community
+- Branding & Guest Lead, TruHacks 2026 (48hr hackathon, 70+ participants)
+- Former Vice president, Community of College Entrepreneurs
 - CodePath TIP102 + AI110
+- NSBE · ColorStack · ACM · GDG
 
 ---
 
-## 🌍 Background
-Born and raised in Ethiopia. Volunteered with childhood cancer awareness organizations (co-led a $5,000+ fundraiser), Red Cross, Rotary Interact, and autism centers. Competed in national math competitions. Worked as a Content Analyst at D!NK Multimedia in Addis Ababa. Digital marketing experience across Dubai and Ethiopia.
-
-I believe data is most powerful when it explains people, not just numbers.
+## ⚽ Outside the terminal
+- 🫂 Advocate for men's mental health
+- ⚽️ Indoor pickup soccer, often. CDM with KDB-inspired passing (on a good day)
+- 🧢 Fashion experimenter. Winter is my season: overlayering is the strategy
+- 🎞️ Movies when I get absolute free time
+- 📖 Reading Kahlil Gibran Collections (all-time favorite)
 
 ---
+## 🌱 Currently exploring
+Recommender Systems  · Experimentation & Causal Inference  · Consumer Behavior Modeling · NLP for Customer Insights · AI Evaluation
 
+---
 ## 📬 Connect
 - Email: nebabtew@gmail.com
 - LinkedIn: [linkedin.com/in/nebabtew](https://www.linkedin.com/in/nebabtew)
-- University: Truman State University, Kirksville MO
