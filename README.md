@@ -12,16 +12,42 @@ First-gen student building toward machine learning engineering. Started in conte
 - **Member**, Bulldog Student Investment Fund
 
 ---
+## 🛠 Tech Stack
 
-## 🛠 Tech stack
-**Languages:** Python · SQL · R · Java · C#
+**Languages**
 
-**Data Science & ML:** pandas · NumPy · scikit-learn · TensorFlow · Statistical Modeling · Time Series Forecasting · Feature Engineering
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-1f2937?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1f2937?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Visualization:** Tableau · Matplotlib · Seaborn · PowerBI
+**Data Science & ML**
 
-**AI & Development:** LLM Development · Agentic AI Systems · Prompt Engineering · Streamlit · Gemini API · Pydantic · Git
+![pandas](https://img.shields.io/badge/pandas-1f2937?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1f2937?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1f2937?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-1f2937?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series%20Forecasting-1f2937?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-1f2937?style=for-the-badge)
 
+**Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-1f2937?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1f2937?style=for-the-badge&logo=powerbi&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1f2937?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-1f2937?style=for-the-badge)
+
+**AI & Development**
+
+![LLM Development](https://img.shields.io/badge/LLM%20Development-1f2937?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Systems-1f2937?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1f2937?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-1f2937?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-1f2937?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-1f2937?style=for-the-badge&logo=pydantic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 🚀 Projects
@@ -46,6 +72,16 @@ First-gen student building toward machine learning engineering. Started in conte
 - 🧢 Fashion experimenter. Winter is my season: overlayering is the strategy
 - 🎞️ Movies when I get absolute free time
 - 📖 Reading Kahlil Gibran Collections (all-time favorite)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-RAG%20%26%20LLM%20Evaluation-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-black?style=for-the-badge" />
+</p>
 
 ---
 ## 🌱 Currently exploring
